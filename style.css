@@ -1,0 +1,43 @@
+.titulo{
+    color: #FFFFFF;
+}
+
+ol{
+    padding: 0 5%;
+}
+
+ol li{
+    list-style: none;   
+}
+
+a{
+    display: block;
+    background-color: #caa4ec;
+    padding: 10px;
+    color: #ffffff;
+    margin: 10px 0;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover{
+    background-color: #a57dc9;
+}
+
+.lista-canciones{
+    background-color: #bbffe3;
+}
+
+.cancion{
+    background-color: #c2e2ff;
+}
+
+.footer{
+    background-color: #fdfad3;
+}
+
+.footer footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
